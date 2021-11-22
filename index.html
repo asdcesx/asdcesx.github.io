@@ -24,7 +24,7 @@
           '/': '错误',
         },
         successText: {
-          '/': '复制',
+          '/': '复制成功',
         }
         },
 
@@ -39,16 +39,20 @@
       repo: '',
     }
 
+
   </script>
-<!--  <style type="text/css">-->
-<!--    .content {-->
-<!--      overflow: auto;-->
-<!--    }-->
-<!--  </style>-->
+  <style type = "text/css" >
+    body:not(.ready) {
+      overflow: auto;
+    }
+
+  </style>
+
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
 
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>
+
   <script>
     const gitalk = new Gitalk({
       clientID: 'Github Application Client ID',

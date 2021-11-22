@@ -1,6 +1,6 @@
--[Maven&MyBatis]
-    -[Maven](Maven&MyBatis.md)
-    -[Mybatis](Mybatis.md)
+- Maven&MyBatis
+   - [Maven](Maven&MyBatis.md)
+   - [Mybatis练习](Mybatis.md)
    
   
 
