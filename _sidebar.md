@@ -1,6 +1,5 @@
 - Maven&MyBatis
    - [Maven](Maven&MyBatis.md)
    - [Mybatis练习](Mybatis.md)
-   
-  
-
+- Java 入门
+   - [java基础](java基础.md)
